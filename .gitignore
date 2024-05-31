@@ -1,0 +1,8 @@
+config.py
+*pdf
+__pycache__/
+agents-flow/
+vectorization.py
+agents.py
+*db
+*txt
